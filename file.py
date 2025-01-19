@@ -2,7 +2,7 @@ import os
 import time
 import subprocess
 import shutil
-# Configuration
+
 WATCH_FOLDER = "C:\\Users\\user\\Pictures\\camera"  # Folder where the camera saves pictures
 UPLOADED_FOLDER = "./uploaded"       # Folder to move uploaded pictures
 UPLOAD_URL = "https://projects.benax.rw/f/o/r/e/a/c/h/p/r/o/j/e/c/t/s/4e8d42b606f70fa9d39741a93ed0356c/iot_testing_202501/upload.php"
